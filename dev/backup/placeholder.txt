@@ -1,1 +1,1 @@
-This file is onyl here so git creates the directory.
+This file is only here so git creates the directory.
