@@ -12,7 +12,7 @@ from .logbase import LogBase
 from typing import Optional, Any, List, Dict
 from threading import Lock, Thread
 
-# Secodns to wait after starting a snapshot before we consider it successful.
+# Seconds to wait after starting a snapshot before we consider it successful.
 SNAPSHOT_FASTFAIL_SECOND = 10
 
 NOTIFICATION_ID = "backup_broken"
